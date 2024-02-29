@@ -6,7 +6,7 @@ package com.mycompany.metodotabular;
 
 /**
  *
- * @author Dell
+ * @author sergio garcia
  */
 public class Metodotabular {
 
